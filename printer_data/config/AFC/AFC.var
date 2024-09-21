@@ -1,0 +1,32 @@
+{
+    "Unknown": {
+        "leg1": {
+            "index": 0,
+            "material": "",
+            "spool_id": "",
+            "color": "",
+            "tool_loaded": false
+        },
+        "leg2": {
+            "index": 0,
+            "material": "",
+            "spool_id": "",
+            "color": "",
+            "tool_loaded": false
+        },
+        "leg3": {
+            "index": 0,
+            "material": "",
+            "spool_id": "",
+            "color": "",
+            "tool_loaded": false
+        },
+        "leg4": {
+            "index": 0,
+            "material": "",
+            "spool_id": "",
+            "color": "",
+            "tool_loaded": false
+        }
+    }
+}
