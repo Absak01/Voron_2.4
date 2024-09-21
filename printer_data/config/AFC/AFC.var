@@ -12,7 +12,7 @@
             "material": "",
             "spool_id": "",
             "color": "",
-            "tool_loaded": true
+            "tool_loaded": false
         },
         "leg3": {
             "index": 0,
