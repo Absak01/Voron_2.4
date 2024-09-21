@@ -3,7 +3,7 @@
         "material": "",
         "spool_id": "",
         "color": "",
-        "tool_loaded": true
+        "tool_loaded": false
     },
     "leg2": {
         "material": "",
